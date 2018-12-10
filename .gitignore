@@ -8,3 +8,6 @@
 
 # ignore ipython checkpoints
 .ipynb_checkpoints
+
+# ignore the HEIC image files
+*.HEIC
