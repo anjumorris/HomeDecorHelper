@@ -3,6 +3,8 @@
 
 # ignore compiled Python files
 *.pyc
+*.hdf5
+*.h5
 
 # ignore ipython checkpoints
 .ipynb_checkpoints
